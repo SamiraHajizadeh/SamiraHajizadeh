@@ -3,7 +3,7 @@
 
 
 
-### :fire: My Stats :
+## My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamiraHajizadeh&show_icons=true&theme=algolia)
 
