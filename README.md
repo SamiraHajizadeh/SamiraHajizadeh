@@ -10,5 +10,5 @@ I am a fourth-year undergraduate student at University of Tehran.
 
 ### Here are my github account stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamiraHajizadeh&show_icons=true&theme=algolia)
+<-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamiraHajizadeh&show_icons=true&theme=algolia) !-->
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamiraHajizadeh&layout=compact&theme=algolia)
